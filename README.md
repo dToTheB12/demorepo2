@@ -8,4 +8,5 @@ More text
 
 # Local Development
 
-1. Open index.html in your browser
+1. Open index.html in your browser.
+2. Making more bloody changes not on master.
